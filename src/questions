@@ -1,0 +1,5 @@
+Create a model named students with the following fields ( name, age, marks [], grade)
+Create constructor and getter setter
+Create three students ( objects)
+Create a custom function in a class that displays the results of students, your results should include Grades, Percentage and Results.
+The display should be similar to your report card.
